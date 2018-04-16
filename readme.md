@@ -210,6 +210,7 @@ echo $i_oct_heart
 | [Hasklug Nerd Font*][p-hasklig]                   | [Hasklig][f-hasklig]              | YES  | 1000    | ![w] ![m2] ![l]   |
 | [Heavy Data Mono Nerd Font][p-heavy-data]         |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
 | [Hermut Nerd Font][p-hermit]                      |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
+| [IBM Plox Mono Nerd Font][p-ibmplexmono]          | [IBM Plex][f-IBMPlex]             | YES  | 1000    | ![w2] ![m] ![l2]  |
 | [Inconsolata Nerd Font][p-inconsolata]            |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
 | [Inconsolata Go Nerd Font][p-inconsolata-go]      |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
 | [Inconsolata LGC Nerd Font][p-inconsolata-lgc]    |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
@@ -588,6 +589,7 @@ Font repos
 [f-terminus]:http://terminus-font.sourceforge.net
 [f-fira-mono]:https://github.com/mozilla/Fira
 [f-fira-code]:https://github.com/tonsky/FiraCode
+[f-IBMPlex]:https://github.com/IBM/plex
 [f-monoid]:https://github.com/larsenwork/monoid
 [f-iosevka]:https://github.com/be5invis/Iosevka
 [f-fant]:https://github.com/belluzj/fantasque-sans
@@ -617,6 +619,7 @@ Patched Font internal links
 [p-fira-mono]:patched-fonts/FiraMono
 [p-heavy-data]:patched-fonts/HeavyData
 [p-hermit]:patched-fonts/Hermit
+[p-ibmplexmono]:patched-fonts/IBMPlexMono
 [p-inconsolata]:patched-fonts/Inconsolata
 [p-inconsolata-go]:patched-fonts/InconsolataGo
 [p-inconsolata-lgc]:patched-fonts/InconsolataLGC
